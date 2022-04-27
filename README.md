@@ -25,7 +25,7 @@ To view the deployed site, please visit [here](https://lkarpins.github.io/ideabo
 4. In terminal, type `open index.html` to view project.
 
 ## Technologies
-IdeaBox was created with HTML, CSS and JavaScript.  Turing School of Software and Design provided a comp with specified images, colors, and fonts to bring the page to life. Paired programming was used throughout this project to ensure consistency and equal collaboration amongst members. 
+IdeaBox was created with HTML, CSS and JavaScript.  [Turing School of Software and Design](https://turing.edu/) provided a comp with specified images, colors, and fonts to bring the page to life. Paired programming was used throughout this project to ensure consistency and equal collaboration amongst members. 
 
 Project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/ideabox-group-v2.html). Below we have included images of the project for reference: 
 ![Screen Shot 2022-04-18 at 6 53 23 PM](https://user-images.githubusercontent.com/98124157/163889828-fc0f2095-6c86-49f8-82fd-b19d755d9364.png)

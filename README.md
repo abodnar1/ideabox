@@ -3,27 +3,31 @@
 By: Amber Bodnar, Cami Anderson, & Lidia Karpinski
 
 ## Table of Contents
-* Introduction
-* Set Up
-* Technologies
-* Sources
-* Ideas for Future Feature/Fixes
-* Acknowledgements
-* Collaborators
+* [Introduction](#introduction)
+* [Deployed Page](#deployed-page)
+* [Set Up](#set-up)
+* [Technologies](#technologies)
+* [Sources](#sources)
+* [Ideas for Future Features](#ideas-for-future-features)
+* [Acknowledgements](#acknowledgements)
+* [Collaborators](#collaborators)
 
 ## Introduction
 Don’t you hate when a good idea passes you by? Insert IdeaBox: an application designed to preserve and inspire ideas!   Within this tool, you may add, favorite, and delete ideas so you never experience a fleeting thought ever again! 
 
+## Deployed Page
+To view the deployed site, please visit [here](https://lkarpins.github.io/ideabox/). 
+
 ## Set Up
 1. Fork this repository
 2. Clone down your new, forked repo
-3. cd into the repository
-4. In terminal, type 'open index.html' to view project.
+3. `cd` into the repository
+4. In terminal, type `open index.html` to view project.
 
 ## Technologies
 IdeaBox was created with HTML, CSS and JavaScript.  Turing School of Software and Design provided a comp with specified images, colors, and fonts to bring the page to life. Paired programming was used throughout this project to ensure consistency and equal collaboration amongst members. 
 
-Project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/ideabox-group-v2.html). To view the deployed site, please visit [here](https://lkarpins.github.io/ideabox/). Below we have included images of the project for reference: 
+Project spec & rubric can be found [here](https://frontend.turing.edu/projects/module-1/ideabox-group-v2.html). Below we have included images of the project for reference: 
 ![Screen Shot 2022-04-18 at 6 53 23 PM](https://user-images.githubusercontent.com/98124157/163889828-fc0f2095-6c86-49f8-82fd-b19d755d9364.png)
 
 
@@ -33,12 +37,12 @@ Project spec & rubric can be found [here](https://frontend.turing.edu/projects/
 
 ## Sources
 Varied resources used throughout this project include:  
-* MDN
-* YouTube
-* CSS-Tricks
+* [MDN](https://developer.mozilla.org/en-US/)
+* [YouTube](https://www.youtube.com/)
+* [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
-## Ideas for Future Features/Fixes
+## Ideas for Future Features
 Some additional features that could be added to this project include the following:
 * Add syncing options to social media platforms to easily share ideas
 * Add painting/drawing features to incorporate visions 
